@@ -1,6 +1,6 @@
 ![Hey! Let me know how can I help you.](https://github.com/goncaloperes/GoncaloPeres/blob/master/GitHub_Intro.gif)
 
-#### Connect with Gonçalo
+### Connect with Gonçalo
 
 [<img align="left" alt="goncaloperes.com" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="Gonçalo Peres | Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
