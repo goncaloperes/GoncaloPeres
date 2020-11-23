@@ -1,15 +1,42 @@
 ![Hey! Let me know how can I help you.](https://github.com/goncaloperes/GoncaloPeres/blob/master/GitHub_Intro.gif)
 
+#### Connect with Gonçalo
+
+[<img align="left" alt="goncaloperes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="Gonçalo Peres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="Gonçalo Peres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Gonçalo Peres | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="Gonçalo Peres | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][Pinterest]
+[<img align="left" alt="Gonçalo Peres | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
+[<img align="left" alt="Gonçalo Peres | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
+[<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][StackExchange]
+[<img align="left" alt="Gonçalo Peres | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Gonçalo Peres | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][Xing]
+[<img align="left" alt="Gonçalo Peres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
+
+<br>
+
+----
+
 <p align="center">
-	<b>Connect with Gonçalo</<b><br>
-	<a href="https://facebook.com/goncalomperes" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/facebook-f.svg" width="15" height="15" alt="Facebook"></a>
-	<a href="https://www.instagram.com/goncaloperes/" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/instagram.svg"  width="15" height="15" alt="Instagram"></a>
-	<a href="https://www.linkedin.com/in/goncaloperes" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg"  width="15" height="15" alt="LinkedIn"></a>
-	<a href="https://medium.com/@goncaloperes" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/medium-m.svg"  width="15" height="15" alt="Medium"></a>
-	<a href="ttps://www.pinterest.pt/goncalomperes/" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/pinterest-p.svg"  width="15" height="15" alt="Pinterest"></a>
-	<a href="https://www.quora.com/profile/Goncalo-Peres" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/quora.svg"  width="15" height="15" alt="Quora"></a>
-	<a href="https://www.reddit.com/user/goncaloperes" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/reddit-alien.svg"  width="15" height="15" alt="Reddit"></a>
-	<a href="https://stackexchange.com/users/9572673/gon%c3%a7alo-peres-%e9%be%9a%e7%87%bf%e7%a6%84" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/stack-exchange.svg" width="15" height="15" target="_blank" alt="StackOverflow"></a>
-	<a href="https://twitter.com/GoncaloMPeres" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/twitter.svg"  width="15" height="15" alt="Twitter"></a>
-	<a href="https://www.xing.com/profile/Goncalo_Peres-" target="_blank"><img src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/xing.svg"  width="15" height="15" alt="Xing"></a>
+	<details>
+		<summary>:shipit: Github Stats</summary>
+		<img align="center" alt="Gonçalo Peres's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=goncaloperes&show_icons=true&hide_border=true&e&theme=radical" alt="github stats"/>
+		<br/>
+		<img align="center" alt="Gonçalo Peres's visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=goncaloperes.goncaloperes"/>
+	</details>
 </p>
+
+
+[Facebook]: https://facebook.com/goncalomperes
+[Instagram]: https://www.instagram.com/goncaloperes/
+[Linkedin]: https://www.linkedin.com/in/goncaloperes
+[Medium]: https://medium.com/@goncaloperes
+[Pinterest]: https://www.pinterest.pt/goncalomperes/
+[Quora]: https://www.quora.com/profile/Goncalo-Peres
+[Reddit]: https://www.reddit.com/user/goncaloperes
+[StackExchange]: https://stackexchange.com/users/9572673/gon%c3%a7alo-peres-%e9%be%9a%e7%87%bf%e7%a6%84
+[Twitter]: https://twitter.com/GoncaloMPeres
+[Website]: https://goncaloperes.com
+[xing]: https://www.xing.com/profile/Goncalo_Peres-
+[YouTube]: https://www.youtube.com/channel/UCW1ww3EmQiTA-u6dlNR13SQ?view_as=subscriber
