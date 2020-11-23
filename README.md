@@ -19,7 +19,7 @@
 ----
 
 <details>
-	<summary>:shipit: Github Stats</summary>
+	<summary>Github Stats</summary>
 	<img align="center" alt="Gonçalo Peres's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=goncaloperes&show_icons=true&hide_border=true&theme=graywhite" alt="Gonçalo Peres | Github Stats"/>
 </details>
 
