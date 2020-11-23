@@ -2,30 +2,26 @@
 
 #### Connect with Gonçalo
 
-[<img align="left" alt="goncaloperes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
-[<img align="left" alt="Gonçalo Peres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="Gonçalo Peres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="Gonçalo Peres | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
-[<img align="left" alt="Gonçalo Peres | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][Pinterest]
-[<img align="left" alt="Gonçalo Peres | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
-[<img align="left" alt="Gonçalo Peres | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
-[<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][StackExchange]
-[<img align="left" alt="Gonçalo Peres | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Gonçalo Peres | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][Xing]
-[<img align="left" alt="Gonçalo Peres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="goncaloperes.com" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="Gonçalo Peres | Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="Gonçalo Peres | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Gonçalo Peres | Medium" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align="left" alt="Gonçalo Peres | Pinterest" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][Pinterest]
+[<img align="left" alt="Gonçalo Peres | Quora" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
+[<img align="left" alt="Gonçalo Peres | Reddit" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
+[<img align="left" alt="Gonçalo Peres | StackExchange" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackexchange.svg" />][StackExchange]
+[<img align="left" alt="Gonçalo Peres | Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Gonçalo Peres | Xing" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][Xing]
+[<img align="left" alt="Gonçalo Peres | YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
 
-<br>
+<br />
 
 ----
 
-<p align="center">
-	<details>
-		<summary>:shipit: Github Stats</summary>
-		<img align="center" alt="Gonçalo Peres's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=goncaloperes&show_icons=true&hide_border=true&e&theme=radical" alt="github stats"/>
-		<br/>
-		<img align="center" alt="Gonçalo Peres's visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=goncaloperes.goncaloperes"/>
-	</details>
-</p>
+<details>
+	<summary>:shipit: Github Stats</summary>
+	<img align="center" alt="Gonçalo Peres's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=goncaloperes&show_icons=true&hide_border=true&theme=graywhite" alt="Gonçalo Peres | Github Stats"/>
+</details>
 
 
 [Facebook]: https://facebook.com/goncalomperes
