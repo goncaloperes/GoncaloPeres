@@ -35,4 +35,4 @@
 [Twitter]: https://twitter.com/GoncaloMPeres
 [Website]: https://goncaloperes.com
 [xing]: https://www.xing.com/profile/Goncalo_Peres-
-[YouTube]: https://www.youtube.com/channel/UCW1ww3EmQiTA-u6dlNR13SQ?view_as=subscriber
+[YouTube]: https://www.youtube.com/goncaloperes?view_as=subscriber
