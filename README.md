@@ -2,23 +2,22 @@
 
 ### Connect with Gonçalo
 
-[<img align="left" alt="goncaloperes.com" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
-[<img align="left" alt="Gonçalo Peres | Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="Gonçalo Peres | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="Gonçalo Peres | Pinterest" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/pinterest.svg" />][Pinterest]
-[<img align="left" alt="Gonçalo Peres | Reddit" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/reddit.svg" />][Reddit]
-[<img align="left" alt="Gonçalo Peres | StackExchange" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/stackexchange.svg" />][StackExchange]
-[<img align="left" alt="Gonçalo Peres | Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Gonçalo Peres | YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.1.0/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="goncaloperes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(50%); margin-right: 10px;" />][Website]
+[<img align="left" alt="Gonçalo Peres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/instagram.svg" style="filter: invert(50%); margin-right: 10px;" />][Instagram]
+[<img align="left" alt="Gonçalo Peres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9.0.0/icons/linkedin.svg" style="filter: invert(50%); margin-right: 10px;" />][Linkedin]
+[<img align="left" alt="Gonçalo Peres | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/reddit.svg" style="filter: invert(50%); margin-right: 10px;" />][Reddit]
+[<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackexchange.svg" style="filter: invert(50%); margin-right: 10px;" />][StackExchange]
+[<img align="left" alt="Gonçalo Peres | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/x.svg" style="filter: invert(50%); margin-right: 10px;" />][X]
+[<img align="left" alt="Gonçalo Peres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/youtube.svg" style="filter: invert(50%); margin-right: 10px;" />][Youtube]
 
-<br />
+<br>
+<br>
 
 [Facebook]: https://facebook.com/goncalomperes
 [Instagram]: https://www.instagram.com/goncaloperes/
 [Linkedin]: https://www.linkedin.com/in/goncaloperes
-[Pinterest]: https://www.pinterest.pt/goncalomperes/
 [Reddit]: https://www.reddit.com/user/goncaloperes
 [StackExchange]: https://stackexchange.com/users/9572673/
-[Twitter]: https://twitter.com/GoncaloMPeres
+[X]: https://x.com/GoncaloMPeres
 [Website]: https://goncaloperes.com
 [YouTube]: https://www.youtube.com/c/GoncaloPeres?sub_confirmation=1
