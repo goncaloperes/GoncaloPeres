@@ -3,7 +3,6 @@
 ### Connect with Gonçalo
 
 [<img align="left" alt="goncaloperes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(50%); margin-right: 10px;" />][Website]
-[<img align="left" alt="Gonçalo Peres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/instagram.svg" style="filter: invert(50%); margin-right: 10px;" />][Instagram]
 [<img align="left" alt="Gonçalo Peres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9.0.0/icons/linkedin.svg" style="filter: invert(50%); margin-right: 10px;" />][Linkedin]
 [<img align="left" alt="Gonçalo Peres | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/reddit.svg" style="filter: invert(50%); margin-right: 10px;" />][Reddit]
 [<img align="left" alt="Gonçalo Peres | StackExchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stackexchange.svg" style="filter: invert(50%); margin-right: 10px;" />][StackExchange]
